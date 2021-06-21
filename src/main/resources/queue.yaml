@@ -1,0 +1,17 @@
+#游戏世界队列V2.0
+
+lobby:
+  perfix: lobby
+  servers:
+  - "MainLobby"
+  - "BWLobby"
+  - "UHCLobby"
+  - "TWLobby"
+  - "SILobby"
+
+game:
+  perfix: mini
+  servers:
+  - "XBedWars"
+  - "BedWars"
+  - "SIGame"
